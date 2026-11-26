@@ -1,0 +1,14 @@
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/bin/Debug/net10.0/StudentRecords
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/bin/Debug/net10.0/StudentRecords.deps.json
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/bin/Debug/net10.0/StudentRecords.runtimeconfig.json
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/bin/Debug/net10.0/StudentRecords.dll
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/bin/Debug/net10.0/StudentRecords.pdb
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.AssemblyInfoInputs.cache
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.AssemblyInfo.cs
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.csproj.CoreCompileInputs.cache
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.dll
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/refint/StudentRecords.dll
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.pdb
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/StudentRecords.genruntimeconfig.cache
+/Users/rumina/Documents/CA_1/Task2_Student_Records/StudentRecords/obj/Debug/net10.0/ref/StudentRecords.dll

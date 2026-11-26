@@ -1,0 +1,112 @@
+[
+    {
+        "postal_district": "Dublin 1",
+        "district_code": "D1",
+        "areas": "most of the city centre north of the River Liffey, including Abbey Street , Amiens Street , parts of North Strand , Capel Street , Dorset Street , Henry Street and Mary Street, Mountjoy Square , Marlborough Street , North Wall , O'Connell Street , Parnell Square , and Talbot Street"
+    },
+    {
+        "postal_district": "Dublin 2",
+        "district_code": "D2",
+        "areas": "most of the city centre south of the River Liffey and takes in areas around Merrion Square , Trinity College , Temple Bar , Grafton Street , St Stephen's Green , Dame Street , and Leeson Street"
+    },
+    {
+        "postal_district": "Dublin 3",
+        "district_code": "D3",
+        "areas": "areas such as Ballybough , Clonliffe , Clontarf , Dollymount , East Wall (including East Point ), Fairview , parts of Drumcondra , most of Killester , most of North Strand , and Marino"
+    },
+    {
+        "postal_district": "Dublin 4",
+        "district_code": "D4",
+        "areas": "Ballsbridge , Belfield , Donnybrook , Irishtown , Merrion , Pembroke , Ringsend , and Sandymount and contains the RDS grounds, Aviva Stadium (formerly Lansdowne Road stadium), and many embassies"
+    },
+    {
+        "postal_district": "Dublin 5",
+        "district_code": "D5",
+        "areas": "Artane , [ a ] central Coolock , parts of Beaumont , Harmonstown , Kilbarrack , parts of Killester , and Raheny"
+    },
+    {
+        "postal_district": "Dublin 6",
+        "district_code": "D6",
+        "areas": "Milltown , Ranelagh , parts of Terenure , parts of Harold's Cross , Rathmines (including Dartry ), and Rathgar"
+    },
+    {
+        "postal_district": "Dublin 6 West",
+        "district_code": "D6W",
+        "areas": "most of Harold's Cross , Templeogue , most of Kimmage , and most of Terenure"
+    },
+    {
+        "postal_district": "Dublin 7",
+        "district_code": "D7",
+        "areas": "Arbour Hill , parts of Ashtown , Broadstone , Cabra , Grangegorman , Oxmantown , Phibsborough , Smithfield , and Stoneybatter"
+    },
+    {
+        "postal_district": "Dublin 8",
+        "district_code": "D8",
+        "areas": "Dolphin's Barn , most of Inchicore , Islandbridge , most of Kilmainham , Merchants Quay, Portobello , South Circular Road , the Phoenix Park , and The Liberties"
+    },
+    {
+        "postal_district": "Dublin 9",
+        "district_code": "D9",
+        "areas": "parts of Ballymun east of Ballymun Road (Shangan and Coultry), Beaumont , Donnycarney , most of Drumcondra , Elm Mount, Griffith Avenue, parts of Glasnevin (St Mobhi, Botanic Gardens and Met Éireann ), Santry , and Whitehall"
+    },
+    {
+        "postal_district": "Dublin 10",
+        "district_code": "D10",
+        "areas": "Ballyfermot , parts of Chapelizod , parts of Kilmainham , and most of Cherry Orchard"
+    },
+    {
+        "postal_district": "Dublin 11",
+        "district_code": "D11",
+        "areas": "most of Ballymun west of Ballymun Road (Sillogue, Balcurris, Balbutcher, Poppintree, Sandyhill and Wadelai), Dubber Cross, Finglas , Ballygall and Cappagh, most of Glasnevin (Cremore, Addison, Violet Hill, Willow Park, Finglas Road, Old Finglas Road and Glasnevin Cemetery ), Kilshane Cross, The Ward, and Coolquay"
+    },
+    {
+        "postal_district": "Dublin 12",
+        "district_code": "D12",
+        "areas": "Bluebell , Crumlin , parts of Inchicore , parts of Harold's Cross , parts of Kimmage and most of Ballymount , Drimnagh , Greenhills , Perrystown , and Walkinstown"
+    },
+    {
+        "postal_district": "Dublin 13",
+        "district_code": "D13",
+        "areas": "Baldoyle , Bayside , parts of Coolock , Donaghmede , Clongriffin , Sutton , Howth , Portmarnock , and Ayrfield"
+    },
+    {
+        "postal_district": "Dublin 14",
+        "district_code": "D14",
+        "areas": "Churchtown , Clonskeagh , most of Dundrum , Goatstown , lower Rathfarnham , and Windy Arbour"
+    },
+    {
+        "postal_district": "Dublin 15",
+        "district_code": "D15",
+        "areas": "most of Ashtown , Blanchardstown , Castleknock , Coolmine , Clonsilla , Corduff , Mulhuddart , Tyrrelstown , and Ongar"
+    },
+    {
+        "postal_district": "Dublin 16",
+        "district_code": "D16",
+        "areas": "Ballinteer , parts of Ballycullen , Ballyboden , Dundrum , Kilmashogue , Knocklyon , upper Rathfarnham , Edmondstown , and Rockbrook"
+    },
+    {
+        "postal_district": "Dublin 17",
+        "district_code": "D17",
+        "areas": "Balgriffin , most of Coolock , Belcamp , Darndale , Priorswood , and Riverside"
+    },
+    {
+        "postal_district": "Dublin 18",
+        "district_code": "D18",
+        "areas": "Cabinteely , Carrickmines , Cherrywood , Foxrock , Loughlinstown , Kilternan , Sandyford , Shankill , Ticknock , Ballyedmonduff, Stepaside , and Leopardstown"
+    },
+    {
+        "postal_district": "Dublin 20",
+        "district_code": "D20",
+        "areas": "most of Chapelizod , most of Palmerstown , and Strawberry Beds"
+    },
+    {
+        "postal_district": "Dublin 22",
+        "district_code": "D22",
+        "areas": "Clondalkin , parts of Palmerstown , parts of Cherry Orchard , Liffey Valley, Newcastle , and Neilstown"
+    },
+    {
+        "postal_district": "Dublin 24",
+        "district_code": "D24",
+        "areas": "most of Ballycullen , Firhouse , Jobstown , Old Bawn , Tallaght , parts of Ballymount , Saggart , Rathcoole , and Brittas"
+    }
+]
